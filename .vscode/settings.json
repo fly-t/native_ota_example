@@ -1,0 +1,13 @@
+{
+    "C_Cpp.intelliSenseEngine": "default",
+    "idf.openOcdConfigs": [
+        "board/esp32s3-builtin.cfg"
+    ],
+    "idf.portWin": "COM13",
+    "idf.flashType": "UART",
+    "files.associations": {
+        "*.qmd": "markdown",
+        "*.md": "markdown",
+        "cstdlib": "c"
+    }
+}
